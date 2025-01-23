@@ -1,0 +1,15 @@
+apk-tools=2.14.4-r2
+busybox=1.37.0-r0
+ca-certificates-bundle=20241121-r1
+glibc-locale-posix=2.40-r4
+glibc=2.40-r4
+ld-linux=2.40-r4
+libcrypt1=2.40-r4
+libcrypto3=3.4.0-r5
+libgcc=14.2.0-r7
+libssl3=3.4.0-r5
+libxcrypt=4.4.38-r0
+wolfi-base=1-r6
+wolfi-baselayout=20230201-r15
+wolfi-keys=1-r8
+zlib=1.3.1-r5
